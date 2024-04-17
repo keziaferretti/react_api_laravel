@@ -1,0 +1,30 @@
+
+.TituloTabela{
+    font-family: 'Mochiy Pop P one', sans-serif;
+    background-size: cover;
+    padding: 5vh;
+    color: rgb(31, 28, 28);
+}
+
+.fontLetra{
+    font-family: 'Nunito', sans-serif;
+}
+
+.corpoTabela{
+    color: black;
+    box-shadow: 1px -1px 27px 9px rgba(51, 51, 51, 1);
+    -webkit-box-shadow: 1px -1px 27px 9px rgba(51, 51, 51, 1);
+    -moz-box-shadow: 1px -1px 27px 9px rgba(51, 51, 51, 1);
+}
+
+.LivroEscp{
+    padding: 1rem;
+}
+.BotaoPesquisar{
+    margin-left: 0.4rem;
+}
+
+ .BotaoConfirmar{
+    margin-right: 55vh;
+    margin-bottom: 0.5vh;
+ }
